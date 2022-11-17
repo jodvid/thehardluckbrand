@@ -1,0 +1,24 @@
+.backbg {
+    padding: 0;
+    margin-left: 5em;
+    
+}
+
+.centerme{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    
+    
+}
+
+  
+.gallery-item {
+    width: auto;
+    height: 20rem;
+    padding: 10px;
+    
+  
+}
+

@@ -1,0 +1,13 @@
+#background-video{
+
+    height: 100%;
+    width: 100%;
+    float: left;
+    top: 0;
+    padding: 0;
+    border: 0;
+    margin: 0;
+    position: center fixed; /* optional depending on what you want to do in your app */
+    
+    
+}
